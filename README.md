@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[active on gitlab](https://gitlab.com/stackaccount1)
+- 🔭 I’m building Ethereum communities!
+- 🌱 I’m currently learning vyper, brownie, and react.
+- 😄 Fan of python, jiujitsu, running, individual sovereignty, anime, carbohydrates, and soccer
+
+
+[active on gitlab as well](https://gitlab.com/stackaccount1)
 
 <!--
 **stackaccount1/stackaccount1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
