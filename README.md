@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m building Ethereum communities!
-- 🌱 I’m currently learning vyper, brownie, and react.
+- 🌱 I’m currently learning vyper, solidity, brownie, and react.
 - 😄 Fan of python, jiujitsu, running, individual sovereignty, anime, carbohydrates, and soccer
 
 
