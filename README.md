@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m building Ethereum communities!
-- 🌱 I’m currently learning vyper, solidity, brownie, and react.
+- 🌱 I’m currently learning vyper, solidity, brownie, hardhat, and react.
 
 
 [active on gitlab as well](https://gitlab.com/stackaccount1)
