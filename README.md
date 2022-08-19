@@ -2,7 +2,6 @@
 
 - 🔭 I’m building Ethereum communities!
 - 🌱 I’m currently learning vyper, solidity, brownie, and react.
-- 😄 Fan of python, jiujitsu, running, individual sovereignty, anime, carbohydrates, and soccer
 
 
 [active on gitlab as well](https://gitlab.com/stackaccount1)
