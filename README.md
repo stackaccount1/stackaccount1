@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m building on ethereum
+🌱🔭⚡ 
 
 
 [active on gitlab as well](https://gitlab.com/stackaccount1)
